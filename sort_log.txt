@@ -1,0 +1,3 @@
+Sun Oct 26 03:11:42 PM MSK 2025: Перемещен .//input.txt в Documents
+Sun Oct 26 03:11:42 PM MSK 2025: Перемещен .//output.txt в Documents
+Sun Oct 26 03:11:42 PM MSK 2025: Перемещен .//test.txt в Documents
